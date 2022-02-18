@@ -5,7 +5,7 @@ Este desafio tem como objetivo te avaliar como desenvolvedor Front-end: JavaScri
 
 Listagem das tecnologias que foram usadas no projeto.
 
-- [AngularJS] - HTML aprimorado para aplicativos da web,
+- [Angular] - HTML aprimorado para aplicativos da web,
 - [PrimeNG] - User Interface que tenho mais harmonia,
 - [PrimeFlex] - Utilitário de CSS do primeNg,
 - [Node.js] -  I/O do back-end.
@@ -43,4 +43,4 @@ npm i --g angular/cli
   [primeFlex]: <https://www.primefaces.org/primeflex/>
    [primeNG]: <https://www.primefaces.org/primeng/>
    [node.js]: <http://nodejs.org>
-   [AngularJS]: <http://angularjs.org>
+   [Angular]: <https://angular.io/>
